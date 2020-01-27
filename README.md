@@ -72,7 +72,7 @@ the address of the **hex** file.
 * [@Emadpourjafar](https://github.com/Emadpourjafar) Emad Pourjafar 
 
 
-Project Link: [https://github.com/TheMn/internet-engineering-project](https://github.com/TheMn/internet-engineering-project)
+Project Link: [https://github.com/asal97/Calculator](https://github.com/asal97/Calculator)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
