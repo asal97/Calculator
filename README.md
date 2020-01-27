@@ -40,7 +40,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project is calculator written with **Assembly** using **Atmega32** as the AVR simulator
+This project is a calculator written with **Assembly** using **Atmega32** as the AVR simulator
 and **Proteus** software for visualization
  
 
@@ -57,7 +57,7 @@ and **Proteus** software for visualization
 ### Running the Project
 1) Run and Rebuild the **Calculator.aps**  in the AVR Studio.
 2) Open the **Calculator.pdsprj** on Proteus.
-3) pass the generated file named **calculator.hex** from running the code in first step to the **Microcontroller**
+3) Pass the generated file named **calculator.hex** from running the code in first step to the **Microcontroller**
 in **Calculator.pdsprj** by double clicking on it and then in the **program file** box give       
 the address of the **hex** file.
 
