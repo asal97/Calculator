@@ -40,8 +40,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project is calculator written with Assembly using Atmega32 as the AVR simulator
-and Proteus software for visualization
+This project is calculator written with **Assembly** using **Atmega32** as the AVR simulator
+and **Proteus** software for visualization
  
 
 ### Built With
